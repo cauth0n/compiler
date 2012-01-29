@@ -6,7 +6,7 @@ package compiler;
 //also will keep track of file pointer location
 //@input: file to scan
 //output: text file that contains tokens from scanner
-//stephani test push
+//stephani test push02
 public class scanner {
 
 	
